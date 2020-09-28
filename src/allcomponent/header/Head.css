@@ -1,0 +1,22 @@
+ 
+
+
+.navbartext a{
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 5px;
+	font-size: 17px;
+}
+
+.navbartext a:hover{
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	background: rgb(10, 151, 252);
+	border-radius: 10px;
+	padding: 5px;
+}
+
+
+ 
+
+ 
