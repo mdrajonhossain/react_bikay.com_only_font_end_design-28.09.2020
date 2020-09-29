@@ -1,4 +1,5 @@
 import React from 'react';
+import './Slidertag.css';
  
  
 
@@ -29,7 +30,7 @@ function Slidertag(props) {
 
 
 
-            <div className="col-md-8 text-center">      
+            <div className="col-md-8 text-center dd">      
                  
 
                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
